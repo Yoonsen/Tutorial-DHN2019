@@ -4,7 +4,7 @@ We will show how researchers within the humanities can access and use the cloud-
 
 1. Show how copyrighted material can be utilized for corpus studies. 
 2.	Different tools built as modules over an API for defining and accessing a corpus for analysis like character modelling, collocation analysis, clustering, growth diagrams and more.
-3.	Demonstrate the benefits of using Jupyter Notebook for researchers without pro-gramming background.
+3.	Demonstrate the benefits of using Jupyter Notebook for researchers without programming background.
 4.	Study the connection between texts and library metadata
 
 
