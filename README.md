@@ -15,3 +15,5 @@ An API can be used by researchers without programming skills, as well as program
 Readymade library metadata can be integrated for building corpora based on those data, like Dewey decimal codes or topic words. We will show how metadata can be used to build, select and compare corpora. The participants will be able to build a corpus and do analysis on it.
 
 The participants will experiment with the API, and get a hands on experience with the tools. 
+
+The repository can be used directly from a browser, using mybinder.org, by following this link [dhn2019-jupyter](https://mybinder.org/v2/gh/Yoonsen/Tutorial-DHN2019/master)
