@@ -7,7 +7,10 @@ We will show how researchers within the humanities can access and use the cloud-
 4.	Study the connection between texts and library metadata
 
 
-A problem for many researchers is the use of copyrighted material. However, the researcher often has no need for the actual text as such; some features of it may suffice, like bag of words, a participle count or a character model. None of these features challenge the copyright holder. A centralized repository of copyrighted material can provide feature sets.
-The points in (2) and (3) cover the need for programmers as well as researchers without pro-gramming background. While the former need a documentation of the low-level interface to the cloud, the actual API, the latter want an accessible interface for doing corpus analysis, and Jupyter Notebook provides such an interface via top level functions and commands ex-pressed in a programming language, e.g. Python or R. 
-Item (4) shows how readymade library metadata can be integrated for building corpora based on those data, like Dewey decimal codes or topic words. We will show how metadata can be used to build, select and compare corpora.
-The participants will experiment with the API, and get a hands on experience with the tools. The kind of material we go through will be distributed as a Github repository on format simi-lar to this: https://github.com/Yoonsen/NB_API_Python.
+A problem for many researchers is the use of copyrighted material. However, the actual text is not often required; some features of it may suffice, like bag of words, a participle count or a character model. None of these features challenge the copyright holder. A centralized repository of copyrighted material can provide feature sets.
+
+An API can be used by researchers without programming skills, as well as programmers. While the latter need a documentation of the low-level interface to the cloud, the actual API, the former wants an accessible interface for doing corpus analysis, and Jupyter Notebook provides such an interface via top level functions and commands expressed in a programming language, e.g. Python or R. 
+
+Readymade library metadata can be integrated for building corpora based on those data, like Dewey decimal codes or topic words. We will show how metadata can be used to build, select and compare corpora. The participants will be able to build a corpus and do analysis on it.
+
+The participants will experiment with the API, and get a hands on experience with the tools. 
