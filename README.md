@@ -16,4 +16,4 @@ Readymade library metadata can be integrated for building corpora based on those
 
 The participants will experiment with the API, and get a hands on experience with the tools. 
 
-The repository can be used directly from a browser by following this link [dhn2019-jupyter](https://mybinder.org/v2/gh/Yoonsen/Tutorial-DHN2019/master), which uses MyBinder, documents here (Binder docs)[https://mybinder.readthedocs.io/en/latest/].
+The repository can be used directly from a browser by following this link [dhn2019-jupyter](https://mybinder.org/v2/gh/Yoonsen/Tutorial-DHN2019/master), which uses MyBinder, documents here (Binder_docs)[https://mybinder.readthedocs.io/en/latest/].
