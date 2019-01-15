@@ -1,6 +1,7 @@
 # Tutorial-DHN2019
 
-We will show how researchers within the humanities can access and use the cloud-based corpus at the National Library of Norway from within Jupyter Notebook. It is relevant for the humanistic community in several ways:
+We will show how researchers within the humanities can access and use the cloud-based corpus like the one at the National Library of Norway from within Jupyter Notebook. We cover the following topics:
+
 1. Show how copyrighted material can be utilized for corpus studies. 
 2.	Different tools built as modules over an API for defining and accessing a corpus for analysis like character modelling, collocation analysis, clustering, growth diagrams and more.
 3.	Demonstrate the benefits of using Jupyter Notebook for researchers without pro-gramming background.
