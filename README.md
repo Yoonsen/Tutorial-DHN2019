@@ -1,5 +1,4 @@
-# Tutorial-DHN2019
-## Mining digital libraries
+# Mining digital libraries
 
 We will show how researchers within the humanities can access and use the cloud-based corpus like the one at the National Library of Norway from within Jupyter Notebook. We cover the following topics:
 
