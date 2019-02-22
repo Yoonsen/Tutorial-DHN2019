@@ -18,4 +18,8 @@ The participants will experiment with the API, and get a hands on experience wit
 
 The repository can be used directly from a browser by following this link [dhn2019 tutorial myBinder version](https://mybinder.org/v2/gh/Yoonsen/Tutorial-DHN2019/master), which uses MyBinder, documents here: [Binder docs](https://mybinder.readthedocs.io/en/latest/).
 
+## Schedule and Location
+
+The tutorial will start on Tuesday 5th, 9am in building 27, Njalsgade 136, 3rd floor room 23. You may find the building on this map from the DHN2019 programme <img src="https://hum.ku.dk/kontakt/findvej/kort_dk/DK_kort_SoendreCampus_2017.pdf">.
+
 A link to this page [Jupyter and corpus tutorial dhn2019](https://yoonsen.github.io/Tutorial-DHN2019/)
