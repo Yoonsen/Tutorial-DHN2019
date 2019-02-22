@@ -20,6 +20,6 @@ The repository can be used directly from a browser by following this link [dhn20
 
 ## Schedule and Location
 
-The tutorial will start on Tuesday 5th, 9am in building 27, Njalsgade 136, 3rd floor room 23. You may find the building on this [map](https://hum.ku.dk/kontakt/findvej/kort_dk/DK_kort_SoendreCampus_2017.pdf) from the DHN2019 programme. <img src="map_tutorial.png">
+The tutorial will start on Tuesday 5th, 9am in building 27, Njalsgade 136, 3rd floor room 23. You may find the building on this [map](https://hum.ku.dk/kontakt/findvej/kort_dk/DK_kort_SoendreCampus_2017.pdf) from the DHN2019 programme. ![]("map_tutorial.png")
 
 A link to this page [Jupyter and corpus tutorial dhn2019](https://yoonsen.github.io/Tutorial-DHN2019/)
